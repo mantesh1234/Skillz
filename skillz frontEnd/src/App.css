@@ -1,0 +1,26 @@
+.minh-900 {
+  min-height: 900px;
+  background-color: salmon;
+}
+
+.opening {
+  color: black;
+  font-size: 28px;
+}
+
+#foot {
+  background-color: salmon;
+}
+
+#navi {
+  background-color: black;
+}
+
+.search {
+  background-color: white;
+  float: right;
+}
+
+#root {
+  background-color: salmon;
+}
